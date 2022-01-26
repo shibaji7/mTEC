@@ -1,0 +1,17 @@
+{
+    "filter": "median-filter",
+    "end_hour_padding": 1,
+    "thresh": 0.1,
+    "left_bound_lon": -180,
+    "right_bound_lon": 180,
+    "top_bound_lat": 90,
+    "bottom_bound_lat": 21,
+    "map_fig_file": "tmp/figures/map.{T}.{Y}{m}{d}-{H}{M}.png",
+    "hour_window": 2,
+    "dur": 5,
+    "ma_time_window": 60,
+    "hemi": "north",
+    "coords": "aacgmv2",
+    "sg_poly_order": 2,
+    "smooth_winow": 9
+}

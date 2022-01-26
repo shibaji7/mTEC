@@ -3,6 +3,5 @@
     "user_email": "shibaji7@vt.edu",
     "user_affiliation": "Virginia Tech",
     "madrigalUrl": "http://cedar.openmadrigal.org/",
-    "file_name": "{Y}/gps/{d}{mmm}{y}/gps{y}{m}{d}g.002.txt",
-    "verbose": true
+    "file_name": "{Y}/gps/{d}{mmm}{y}/gps{y}{m}{d}g.002.txt"
 }
